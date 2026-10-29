@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "EventBillet Scanner",
+    "slug": "eventbillet-scanner-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "plugins": [
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Autoriser EventBillet Scanner à utiliser la caméra pour scanner les billets QR Code."
+        }
+      ]
+    ]
+  }
+}
